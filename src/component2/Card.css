@@ -1,0 +1,73 @@
+.pricebox1{
+  width: 343.725px;
+height: 538.4px;
+
+
+border: 1px solid #ccc;
+
+
+background-color :#FFFFFF;
+
+margin :0 2px;
+}
+
+
+.pricebox1:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); 
+}
+
+.heading3card{
+    color:white;
+    font-size: 24px;
+    margin:0;
+    padding :32px 16px; 
+    border: 1px solid black;
+    background-color: black;
+    border-left: none;
+    border-right: none;
+}
+.storage{
+  padding:16px;
+border: 1px solid #ddd;
+border-bottom:none;
+margin: 0px;
+font-size: 15px;
+font-weight: 600;
+border-left: none;
+border-right: none;
+}
+.rupee{padding:16px;
+   
+    margin: 0px;
+    font-size: 30px;
+    letter-spacing: 4px;
+    border: .1px solid#ddd;
+    border-left: none;
+    border-right: none;
+  
+    border-bottom: none;
+}
+
+.span1{
+    font-size: 15px;
+    letter-spacing: 0px;
+}
+.signup{
+    
+     margin-top: 20px;
+   height:46.5px;
+   width:97.925px;
+  background-color: #59c35c;
+  border: none;
+}
+.signup:hover{
+    background-color:#CCCCCC!important;
+    border-color: black;
+}
+
+.signup_border{
+     height: 94.5px;
+     border-top: 1px solid #ccc ;
+     background-color: #F1F1F1;
+
+}

@@ -1,0 +1,46 @@
+.heading7{
+      margin-top:4rem;
+      
+        font-weight: 400;
+        font-size: 27px;
+        font-size: 24px;
+        line-height: 36px;
+        text-align: center;
+        text-align: center;
+        margin:10px 0 10px 0;
+    
+}
+
+.price_cards_page5{
+
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(1,1fr);
+
+column-gap: 12.75px;
+max-width :1068px;
+   margin: 30px  auto;
+
+}
+
+@media screen and (max-width: 1082px) {
+   
+  .price_cards_page5{
+  
+    display: grid;
+    grid-template-columns:repeat(1,1fr);
+    grid-template-rows:repeat(3,1fr);
+    margin: 30px  auto;
+
+    
+
+  }
+}
+
+.price_heading{
+  width:1068px;
+  margin: 0 auto;
+  
+
+}
+

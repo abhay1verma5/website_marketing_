@@ -1,0 +1,49 @@
+.footer{
+  
+    background-color:#F1F1F1 ;
+    
+    height:290px;
+    display: block;
+display: block;
+padding :32px 16px 32px 16px;
+}
+
+.btn {
+    border: none;
+    color: white;
+    padding: 14px 28px;
+   
+    height: 38.5px;
+    width: 127.363px;
+    margin: 16px 16px ;
+    padding: 8px 16px 8px 16px;
+    
+    display: inline-block;
+    font-size: 15px;
+    line-height: 22.5px;
+
+    
+  }
+
+  .success {background-color:black;} 
+.success:hover {background-color: #b6bcb6;
+color: black;}
+
+
+.arrowup{
+     font-weight: 900;
+    margin: 0 16 0 0;
+   
+}
+.socialmedia{
+  margin-top:17px;
+}
+
+.w3css{
+  margin-top: 19px;
+
+}
+.w3css  a{text-decoration:underline;
+  color: #000;
+
+}

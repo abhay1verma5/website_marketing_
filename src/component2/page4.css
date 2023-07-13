@@ -1,0 +1,25 @@
+.price_cards_page9{
+
+    display: grid;
+    grid-template-columns:repeat(3,1fr);
+    grid-template-rows:repeat(1,1fr);
+margin :64px  auto ;
+column-gap: 12.75px;
+width :1068px;
+
+   
+}
+
+.page4_border{
+    height:744.775px;
+    width:1100px;
+    margin: 0 auto;
+    padding: 0 8px 0 8px;
+}
+
+.head_border1{
+    display: inline-block;
+margin-top: 20px;
+    border-bottom: 6px solid #616161 ;
+    padding :60px 0px 10px 0px;
+}

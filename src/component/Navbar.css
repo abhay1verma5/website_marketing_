@@ -1,0 +1,39 @@
+
+
+.navbar { 
+  
+ 
+   background-color: #F1F1F1;
+
+   display: grid;
+   height: 43px; 
+
+   grid-template-columns: 1fr 1fr 1fr 1fr ;
+   position: fixed;
+   min-width:100%;
+   z-index: 1;
+ 
+    
+  }
+
+
+  .para4{color: black;
+    font-size: 18px;
+    
+    text-decoration: none;
+    line-height: 27px;
+    
+    text-align: center;
+    display: block;
+    padding-top: 6px;
+
+    
+  }
+
+  .navlink:hover{
+    background-color: #CCCCCC ;
+   
+    
+  }
+  
+  

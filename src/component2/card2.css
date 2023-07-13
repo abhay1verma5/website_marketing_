@@ -1,0 +1,55 @@
+.pricebox5{
+   
+
+width:345.325px;
+border: 1px solid #ccc;
+background: #fff;
+
+background-color :white;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+height: 464.775px;
+
+}
+.image{
+    width:345.325px;
+    height: 229.97px;
+}
+.heading3{
+    line-height: 36px;
+    font-weight: 400;
+    font-size: 24px;
+    
+    margin-top:4px;
+    margin-left: 18px ;
+    text-align: left;
+}
+.para1{
+   margin:15px 0 15px 18px;
+    text-align: left;
+ opacity: .7;
+    font-size: 15px;
+    line-height: 22.5px;
+   
+}
+
+.para2{
+   
+    text-align: left;
+    font-size: 15px;
+    line-height: 22.5px;
+    font-weight: 500;
+    margin: 15px 0 15px 18px;
+}
+.para3{
+   
+    
+    text-align: center;
+    font-size: 15px;
+   background-color:  #F1F1F1;
+  
+   padding: 8px 16px 8px 16px;
+}
+.para3:hover{
+    background-color: #CCCCCC;
+}
+

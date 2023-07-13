@@ -1,0 +1,147 @@
+
+
+.main{
+    background-color: #FFFFFF;
+
+  
+    position: relative;
+  height:537.75px;
+ 
+  margin: 0 auto;
+  width:70.35%;
+  height: 100%;
+
+}
+.image_name{
+  font-size: 15px;
+  line-height: 22.5px;
+  position: relative;
+  top:10px;
+}
+@media screen and (max-width: 1068px) {
+  .main{
+             margin:0 16px 0 16px 0;
+             width:95%;
+
+
+  }
+}
+
+.button3before{
+  
+    border: 1px solid white;
+    background-color: gray;
+  height:1rem;
+  width:1rem;
+}
+
+
+
+
+
+.button2before{
+   
+    border: 1px solid white;
+    background-color: gray;
+  height:1rem;
+  width:1rem;
+}
+.button1before{
+   
+    border: 1px solid white;
+    background-color: gray;
+  height:1rem;
+  width:1rem;
+}
+
+
+
+.button1after{
+   
+    border: 1px solid white;
+    background-color: gray;
+  height:1rem;
+  width:1rem;
+}
+
+
+
+.butto_n{
+  
+    height :52px;
+  
+    border:1px solid grey ;
+    
+      background-color: gray;
+      
+    
+}
+
+button:hover{
+    background-color: white;
+}
+
+img{
+  
+    height:485.45px;
+    width: 100%;
+}
+
+.arrowback{
+  position: absolute;
+  left:29px;
+  bottom:10px;
+
+  
+  height: 25px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+
+  
+}
+.arrowback:hover{
+    background-color: rgb(74, 170, 173);
+}
+
+
+
+.arrowforward{
+    position: absolute;
+    right:10px;
+    bottom:10px;
+  
+    height: 29px;
+  width: 25px;
+  background-color: white;
+  border-radius: 50%;
+  display: inline-block;
+  
+    
+  }
+
+  .arrowforward:hover{
+    background-color: rgb(74, 170, 173);
+}
+
+  .Button{
+    position: absolute;
+    
+    left:50%;
+    bottom:10px;
+   
+ display: flex;
+ 
+column-gap: 10px;
+   
+
+
+  }
+
+  .high{
+   background-color: blue;
+  }
+.active{
+  background-color:white;
+}

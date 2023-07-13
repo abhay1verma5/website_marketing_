@@ -1,0 +1,9 @@
+.fullpage{
+  margin: 0 auto;
+  text-align: center;
+}
+
+*{
+  margin: 0;
+  scroll-behavior: smooth;
+}
